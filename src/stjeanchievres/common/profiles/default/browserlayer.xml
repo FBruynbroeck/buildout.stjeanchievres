@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layers>
+  <layer name="StJean"
+         interface="stjeanchievres.common.interfaces.IBrowserLayer" />
+</layers>
